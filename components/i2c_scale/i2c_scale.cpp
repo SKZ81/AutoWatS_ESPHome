@@ -1,5 +1,7 @@
 #include "i2c_scale.h"
 #include "esphome/core/log.h"
+#include "i2c_scale_number.h"
+#include "i2c_scale_button.h"
 
 namespace esphome {
 namespace i2c_scale {
